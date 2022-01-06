@@ -87,6 +87,12 @@ p{
     background-size: 15%;
     background-position: bottom 0 right 110px;
 }
+.fifth-section{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: top 50px left 140px;
+}
 .footer-section{
     text-align: center;
     background-color: rgb(1, 1, 24);
