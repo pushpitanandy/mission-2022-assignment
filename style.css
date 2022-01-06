@@ -77,3 +77,9 @@ p{
     background-size: 15%;
     background-position: 60px;
 }
+.fourth-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: bottom 0 right 110px;
+}
